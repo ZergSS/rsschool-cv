@@ -18,8 +18,8 @@ I want to develop in machine learning, improve deep neural network programming s
 
 ## 4. Work Experience
 
-2014 - 2022, Lebedinsky Mining and Processing Plant, Operations Department, Leading Specialist, Equipment Performance Analysis<br>
-2011 - 2014, "Solex" car service, car repair mechanic, car repair
+2014 September - 2022 June, Lebedinsky Mining and Processing Plant, Operations Department, Leading Specialist, Equipment Performance Analysis<br>
+2011 Febrary - 2014 September, "Solex" car service, car repair mechanic, car repair
 
 ## 5. Skills
 
