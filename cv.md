@@ -1,10 +1,10 @@
 ## 1. Personal Information
 
-Name           Sergey Totmyanin<br>
-Date of birth   08 th of November 1979<br>
+Name              Sergey Totmyanin<br>
+Date of birth     08 th of November 1979<br>
 Address           Stary Oskol, Dubrava 3, Russia<br>
-Phone number   +7-915-875-0951<br>
-Email           skr-on@mail.com<br>
+Phone number      +7-915-579-12-63<br>
+Email             skr-on@mail.com<br>
 Marital status    married
 
 ## 2. Objective
