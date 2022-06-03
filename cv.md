@@ -27,7 +27,7 @@ Kknowledge of programs Microsoft Office<br>
 Programming languages:
 python, R, JS, HTML, CSS<br>
 Languages:
-Native English.
+Native Russian, basic English.
 
 ## 6. Extracurricular Activities
 
