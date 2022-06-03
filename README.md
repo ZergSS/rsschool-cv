@@ -1,1 +1,1 @@
-https://ZergSS.github.io/rsschool-cv/
+<https://ZergSS.github.io/rsschool-cv/>
