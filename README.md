@@ -1,2 +1,1 @@
-# rsschool-cv
-[This is my CV](https://zergss.github.io/rsschool-cv/cv)
+https://ZergSS.github.io/rsschool-cv/
